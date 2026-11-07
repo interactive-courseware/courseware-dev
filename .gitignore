@@ -1,0 +1,6 @@
+# Registered apps are tracked gitlinks; ignore any extra local checkouts.
+/apps/
+.DS_Store
+/.local/
+/.env
+__pycache__/

@@ -1,0 +1,16 @@
+[submodule "apps/courseware-api"]
+	path = apps/courseware-api
+	url = https://github.com/interactive-courseware/courseware-api.git
+	branch = master
+[submodule "apps/courseware-web"]
+	path = apps/courseware-web
+	url = https://github.com/interactive-courseware/courseware-web.git
+	branch = master
+[submodule "apps/courseware-skill"]
+	path = apps/courseware-skill
+	url = https://github.com/interactive-courseware/courseware-skill.git
+	branch = main
+[submodule "apps/courseware-demo"]
+	path = apps/courseware-demo
+	url = https://github.com/interactive-courseware/courseware-demo.git
+	branch = main

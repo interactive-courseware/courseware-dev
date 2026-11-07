@@ -1,0 +1,4 @@
+version = "0.1.0"
+packages = []
+build-order = ["courseware-api", "courseware-web"]
+exclude-apps = ["courseware-demo", "courseware-skill"]
